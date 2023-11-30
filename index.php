@@ -4,7 +4,7 @@
     <title>Hola Mundo</title>
 </head>
 <body>
-    <h1>Hola, mundo!  Oiram David Practica Docker Compose</h1>
+    <h1>Tarea 3 Programacion III  Proyecto Docker Compose</h1>
     <?php
         $servername = getenv("MYSQL_HOST");
         $username = getenv("MYSQL_USER");
