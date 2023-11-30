@@ -1,11 +1,9 @@
-<HTML>
+<!DOCTYPE html>
+<html>
     <head>
-      <title>Programacion 3</title>
+        <title>PHP Test</title>
     </head>
     <body>
-      <div id="una capa">
-        <h1>Hola!</h1>
-        <p>Este es un ejemplo del uso de HTML para mi tarea individual.</p>
-      </div>
-    </body>  
-  </HTML>
+        <?php echo '<p>Hello World</p>'; ?>
+    </body>
+</html>
